@@ -19,12 +19,12 @@ For this asessment you'll need to familiarize yourself with parts of the [GitHub
         4. Description
         5. Follower count, i.e. *X followers*
         6. Following count, i.e. *X following*
-2. A view which displays a list of the user's followers and who they're following 
-    - We should be able to navigate to this view by tapping on the follower/following counts from 5 and 6 above. 
+2. A view which displays a list of the user's followers, as well as a view for who they're following 
+    - We should be able to navigate to this view by tapping on the follower/following counts 
     - If a user in this list is tapped, it should navigate us to their profile view
 3. The ability to navigate backwards through the navigation stack
 
-Show us what you can do in no more than 48 hours. Keep a log of the time spent and include it with your submission. Note that there are no designs to follow for this assessment, so you have creative freedom when it comes to the layout and so on.
+Show us what you can do in no more than 24 hours. Keep a log of the time spent and include it with your submission. Note that there are no designs to follow for this assessment, so you have creative freedom when it comes to the layout and so on.
 
 ##### Bonus features
 
@@ -45,7 +45,7 @@ This exercise will be graded on a number of criteria including, but not limited 
 
 ### Submission
 
-Please commit all of your work to a *private* GitHub repository. When you are finished, invite the [rhys-at-speer](https://github.com/rhys-at-speer) account and email a link of the repository to our recruiters with the subject line:
+Please commit all of your work to a *private* GitHub repository. When you are finished, invite the [rhys-at-speer](https://github.com/rhys-at-speer) account and email a link of the repository to [clement.shum@speer.io](mailto:clement.shum@speer.io) with the subject line:
 
 **iOS Developer Assessment - [Your Name]**.
 
