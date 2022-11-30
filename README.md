@@ -47,7 +47,7 @@ This exercise will be graded on a number of criteria including, but not limited 
 
 Please commit all of your work to a *private* GitHub repository. When you are finished, invite the [ffranqui-at-speer](https://github.com/ffranqui-at-speer) account and email a link of the repository to [clement.shum@speer.io](mailto:clement.shum@speer.io) with the subject line:
 
-**iOS Developer Assessment - [Your Name]**.
+**Software Engineer (Bluetooth) Android/iOS Assesment - [Your Name]**.
 
 
 #### Goodluck!
